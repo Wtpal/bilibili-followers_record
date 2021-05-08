@@ -1,1 +1,3 @@
-# bilibili-followers_record
+# 1.借用了wget.exe获取粉丝数据
+# 2.程序运行前需在其所在的文件夹建立一个111.txt的文本文件用于临时储存数据
+# 3.最终数据保存在.csv中
